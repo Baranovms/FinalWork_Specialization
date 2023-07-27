@@ -1,6 +1,7 @@
 DROP DATABASE IF EXISTS `Друзья человека`;
 
-CREATE DATABASE IF NOT EXISTS `Друзья человека`;
+CREATE DATABASE IF NOT EXISTS `Друзья человека`;м
+
 USE `Друзья человека`;
 CREATE TABLE 'Родительский_класс' (
   'id' INT PRIMARY KEY AUTO_INCREMENT,
