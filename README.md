@@ -2,6 +2,7 @@
 
 ## Урок 2. Итоговая контрольная работа
 
+[ПЕРЕЙТИ К РЕШЕНИЮ](https://github.com/Baranovms/FinalWork_Specialization/blob/main/ANSWER.md)
 
 **Информация о проекте**
 
